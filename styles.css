@@ -1,0 +1,14 @@
+h1 {
+font-family: 'Kaushan Script', cursive;
+color: black;
+}
+img { 
+     height: 350px;
+  width: 300px;
+}
+body { 
+    background-image:url("");
+}
+p {
+    color:black;
+}
